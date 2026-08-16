@@ -6,22 +6,6 @@ This project is a **minimal compiler** implemented in **C** for a small, toy pro
 
 This repository is designed so that each part is **understandable and modular**, making it easy to extend with new features like conditionals, loops, and more complex operations.  
 
-⚠️ Note: Currently, the project functions as an interpreter. Future versions aim to evolve it into a full compiler capable of generating machine code or bytecode.
-
----
-
-## Project Status
-
-⚠️ **Work in Progress (WIP)**
-
-This project is **currently under development**. While the interpreter is fully functional for simple expressions and variable assignments, many features are still planned, including:
-- More complex statements, loops, and advanced error handling.
-- Future compilation phases like code generation, optimization, and assembly output.
-
-![status](https://img.shields.io/badge/status-in%20progress-yellow)
-
----
-
 ## Tools and Language
 
 The project is written entirely in **C**, chosen for its clarity and direct mapping to low-level programming concepts.  
